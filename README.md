@@ -39,17 +39,6 @@ Myntra-Clone/
     ├── offers/
     └── categories/
 ```
-
-## ▶️ How to Run
-
-1. Download or clone the project.
-2. Open the project folder in VS Code.
-3. Install the **Live Server** extension if required.
-4. Open `index.html`.
-5. Right-click the file and select **Open with Live Server**.
-
-The project will then open in your browser.
-
 ## 🎯 Purpose
 
 This project was created as a frontend practice project to improve my understanding of HTML structure, CSS styling, Flexbox layouts, positioning, and building real-world e-commerce interfaces from a visual reference.
