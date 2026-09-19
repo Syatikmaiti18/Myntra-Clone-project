@@ -21,10 +21,12 @@ A responsive **Myntra-inspired e-commerce website UI clone** built using HTML an
 
 ## 🛠️ Technologies Used
 
-* **HTML5** – Used to structure the webpage and its different sections.
-* **CSS3** – Used for styling, layouts, spacing, typography, colors, and positioning.
-* **Google Material Symbols** – Used for search, profile, wishlist, and shopping bag icons.
-* **Flexbox** – Used to create the navigation, product category, and footer layouts.
+**HTML5** – Used to structure the webpage, product sections, shopping bag, and other components.
+**CSS3** – Used for styling, responsive layouts, spacing, typography, colors, and positioning.
+**JavaScript** – Used to add dynamic product rendering, shopping bag functionality, price calculations, and user interactions.
+**LocalStorage** – Used to save shopping bag items so they remain stored even after refreshing the webpage.
+**Google Material Symbols** – Used for search, profile, wishlist, and shopping bag icons.
+**Flexbox** – Used to create responsive navigation, product, category, shopping bag, and footer layouts.
 
 ## 📂 Project Structure
 
@@ -41,8 +43,35 @@ Myntra-Clone/
 ```
 ## 🎯 Purpose
 
-This project was created as a frontend practice project to improve my understanding of HTML structure, CSS styling, Flexbox layouts, positioning, and building real-world e-commerce interfaces from a visual reference.
+This project was created as a frontend practice project to improve my understanding of HTML structure, CSS styling, JavaScript, Flexbox layouts, positioning, and building real-world e-commerce interfaces from a visual reference.
+
+
+⚡ **JavaScript Features**
+
+Dynamically displays products using JavaScript.
+Add products to the shopping bag.
+Stores bag items using LocalStorage.
+Displays the number of products added to the bag.
+Displays selected products on the Bag page.
+Removes products from the shopping bag.
+Automatically updates the bag after removing an item.
+Calculates Total MRP of selected products.
+Calculates total discount on products.
+Adds convenience fee to the order.
+Calculates the final payable amount.
+Dynamically updates the price summary based on bag items.
 
 ## 📌 Future Improvements
 
-JavaScript functionality can be added in the future for search, navigation, wishlist, shopping bag, product interactions, and other dynamic features.
+The project now includes basic JavaScript-based e-commerce functionality. Future improvements can include:
+
+Product search and filtering.
+Wishlist functionality.
+Product quantity selection.
+Product details page.
+User login and profile system.
+Coupon and promo-code functionality.
+Sorting products by price, rating, and discount.
+Checkout and payment interface.
+Improved mobile responsiveness.
+Backend and database integration for a complete e-commerce experience.
