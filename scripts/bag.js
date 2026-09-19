@@ -1,5 +1,4 @@
-let convenienceFee = totalItem > 0 ? CONVENIENCE_FEES : 0;
-let finalPayment = totalMRP - totalDiscount + convenienceFee;
+const CONVENIENCE_FEES = 99;
 let bagItemObjects;
 onLoad();
 
@@ -36,7 +35,7 @@ function displayBagSummary() {
     </div>
     <div class="price-item">
       <span class="price-item-tag">Convenience Fee</span>
-      <span class="price-item-value">₹${convenienceFee}</span>
+      <span class="price-item-value">₹99</span>
     </div>
     <hr>
     <div class="price-footer">
