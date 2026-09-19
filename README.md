@@ -48,30 +48,30 @@ This project was created as a frontend practice project to improve my understand
 
 ⚡ **JavaScript Features**
 
-Dynamically displays products using JavaScript.
-Add products to the shopping bag.
-Stores bag items using LocalStorage.
-Displays the number of products added to the bag.
-Displays selected products on the Bag page.
-Removes products from the shopping bag.
-Automatically updates the bag after removing an item.
-Calculates Total MRP of selected products.
-Calculates total discount on products.
-Adds convenience fee to the order.
-Calculates the final payable amount.
-Dynamically updates the price summary based on bag items.
+* Dynamically displays products using JavaScript.
+* Add products to the shopping bag.
+* Stores bag items using LocalStorage.
+* Displays the number of products added to the bag.
+* Displays selected products on the Bag page.
+* Removes products from the shopping bag.
+* Automatically updates the bag after removing an item.
+* Calculates Total MRP of selected products.
+* Calculates total discount on products.
+* Adds convenience fee to the order.
+* Calculates the final payable amount.
+* Dynamically updates the price summary based on bag items.
 
 ## 📌 Future Improvements
 
 The project now includes basic JavaScript-based e-commerce functionality. Future improvements can include:
 
-Product search and filtering.
-Wishlist functionality.
-Product quantity selection.
-Product details page.
-User login and profile system.
-Coupon and promo-code functionality.
-Sorting products by price, rating, and discount.
-Checkout and payment interface.
-Improved mobile responsiveness.
-Backend and database integration for a complete e-commerce experience.
+* Product search and filtering.
+* Wishlist functionality.
+* Product quantity selection.
+* Product details page.
+* User login and profile system.
+* Coupon and promo-code functionality.
+* Sorting products by price, rating, and discount.
+* Checkout and payment interface.
+* Improved mobile responsiveness.
+* Backend and database integration for a complete e-commerce experience.
